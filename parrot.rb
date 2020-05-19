@@ -3,7 +3,7 @@
 
 def parrot
   puts "parrot"
-  returns parrot
+  returns "parrot"
 end
 
 parrot
