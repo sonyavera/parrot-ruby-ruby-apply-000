@@ -2,6 +2,6 @@
 # returns the phrase
 
 def parrot(parrotsays="Squawk!")
-  puts "{#{parrotsays}}"
-  returns parrotsays
+  whats_he_say = puts "{#{parrotsays}}"
+  returns whats_he_say
 end
